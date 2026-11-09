@@ -6,7 +6,7 @@
 
 <p align="center">
   I configure Microsoft Dynamics 365 Business Central, provision cloud infrastructure with Terraform, and build AI into real products.
-  I'm a former founder who's comfortable working between technical teams and business users.
+  Comfortable working between technical teams and business users.
 </p>
 
 ---
@@ -72,7 +72,7 @@
 | [**SafeLet**](https://github.com/Jibraeeli/safelet) | Compliance tracker for UK landlords under the Renters Rights Act 2026: scores 10 legal duties, explains each fix and stores proof. React Native, TypeScript, Supabase |
 | [**Comic Encyclopedia**](https://github.com/Jibraeeli/ComicEncyclopedia) | ASP.NET Core search app for the British Library comics dataset, with roles, saved lists and an admin dashboard. Docker, GitHub Actions CI, deployed to Azure and AWS with Terraform |
 | **Business Central Case Study** | Implementation design for a 70-person equipment manufacturer |
-| **Deepfakes and Cybersecurity** | Distinction dissertation on deepfakes as a cybersecurity risk |
+| [**Deepfakes and Cybersecurity**](https://github.com/Jibraeeli/deepfakes-cybersecurity-research) | Distinction research project (128 pages, 160+ sources, 30-person survey) on deepfakes as a cybersecurity threat and whether AI can stop them |
 
 </div>
 
