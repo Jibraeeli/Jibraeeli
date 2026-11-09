@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jiby</h1>
+<h1 align="center">Hey, I'm Jiby 👋</h1>
 
 <p align="center">
   <b>Final-year BSc Computing student</b> · Working towards <b>ERP Business Systems</b>, <b>DevOps</b> and <b>MLOps</b>
@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">Working Towards</h2>
+<h2 align="center">🎯 Working Towards</h2>
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dynamics_365_Business_Central-0B6A5D?style=for-the-badge" alt="Dynamics 365 Business Central" />
@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="center">Projects</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <div align="center">
 
@@ -78,19 +78,19 @@
 
 ---
 
-<h2 align="center">Experience</h2>
+<h2 align="center">💼 Experience</h2>
 
 <div align="center">
 
 | Role | Highlights |
 | :-- | :-- |
 | **Founder, Dawncrest** | B2B consultancy: 6.7% email reply rate (~2% benchmark) and ~70% less manual work through automation |
-| **Technical Intern, ICEYE** | Database tasks and shadowing engineers in Lisbon |
+| **Technical Intern, [ICEYE](https://www.iceye.com)** | Database tasks and shadowing engineers in Lisbon |
 
 </div>
 
 <details>
-<summary><b>Education and certification</b></summary>
+<summary><b>🎓 Education and certification</b></summary>
 <br />
 
 - **BSc (Hons) Computing**, Birmingham City University (expected 2027)
@@ -103,7 +103,7 @@
 
 ---
 
-<h2 align="center">Connect</h2>
+<h2 align="center">🔗 Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jibraeel-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
