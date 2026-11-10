@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jiby 👋</h1>
+<h1 align="center">Hey, I'm Jibraeel 👋</h1>
 
 <p align="center">
   <b>Final-year BSc Computing student</b> · Working towards <b>ERP Business Systems</b>, <b>DevOps</b> and <b>MLOps</b>
