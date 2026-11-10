@@ -72,8 +72,8 @@
 | [**OnQuote**](https://github.com/Jibraeeli/OnQuote) | Quoting app for UK trades: job-site photos and a voice note become a VAT-aware PDF quote in about 10 seconds. React Native, Expo, Anthropic and OpenAI APIs, works offline |
 | [**SafeLet**](https://github.com/Jibraeeli/safelet) | Compliance tracker for UK landlords under the Renters Rights Act 2026: scores 10 legal duties, explains each fix and stores proof. React Native, TypeScript, Supabase |
 | [**Comic Encyclopedia**](https://github.com/Jibraeeli/ComicEncyclopedia) | ASP.NET Core search app for the British Library comics dataset, with roles, saved lists and an admin dashboard. Docker, GitHub Actions CI, deployed to Azure and AWS with Terraform |
-| **Business Central Case Study** | Implementation design for a 70-person equipment manufacturer |
 | [**Deepfakes and Cybersecurity**](https://github.com/Jibraeeli/deepfakes-cybersecurity-research) | Distinction research project (128 pages, 160+ sources, 30-person survey) on deepfakes as a cybersecurity threat and whether AI can stop them |
+| **Business Central Case Study** | Implementation design for a 70-person equipment manufacturer |
 
 </div>
 
