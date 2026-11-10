@@ -18,8 +18,8 @@
 | Area | What I've done so far |
 | :-- | :-- |
 | **ERP Business Systems** | Hands-on Business Central setup: G/L, posting groups, master data, and purchase and sales documents posted through to the ledgers |
-| **DevOps** | AWS infrastructure with Terraform, a Docker and GitHub Actions pipeline deploying to Azure, and DNS and email infrastructure for my own business |
-| **AI and MLOps** | Built an AI quoting app and wrote a Distinction dissertation on deepfakes. MLOps is next: taking models from prototype to reliable production |
+| **DevOps** | A full ECS platform on AWS with Terraform, passwordless GitHub Actions deployments, signed images and automatic rollback, a Docker pipeline deploying to Azure, and DNS and email infrastructure for my own business |
+| **AI and MLOps** | Built an AI quoting app, wrote a Distinction dissertation on deepfakes, then deployed a deepfake detector to AWS and published where it fails on public datasets |
 
 </div>
 
@@ -68,6 +68,7 @@
 
 | Project | Description |
 | :-- | :-- |
+| [**TrueFrame**](https://github.com/Jibraeeli/trueframe) | Deepfake scanner on AWS: upload an image or video and get a 0 to 100 trust score with the evidence. ECS Fargate, Terraform, blue/green releases, scale to zero and published accuracy results. [Watch the demo](https://youtu.be/GY35aBCQ9G0) |
 | [**OnQuote**](https://github.com/Jibraeeli/OnQuote) | Quoting app for UK trades: job-site photos and a voice note become a VAT-aware PDF quote in about 10 seconds. React Native, Expo, Anthropic and OpenAI APIs, works offline |
 | [**SafeLet**](https://github.com/Jibraeeli/safelet) | Compliance tracker for UK landlords under the Renters Rights Act 2026: scores 10 legal duties, explains each fix and stores proof. React Native, TypeScript, Supabase |
 | [**Comic Encyclopedia**](https://github.com/Jibraeeli/ComicEncyclopedia) | ASP.NET Core search app for the British Library comics dataset, with roles, saved lists and an admin dashboard. Docker, GitHub Actions CI, deployed to Azure and AWS with Terraform |
