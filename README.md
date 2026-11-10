@@ -85,7 +85,7 @@
 
 | Role | Highlights |
 | :-- | :-- |
-| **Founder, [Dawncrest](https://dawncrestdigital.co.uk)** | B2B consultancy: 6.7% email reply rate (~2% benchmark) and ~70% less manual work through automation |
+| **Founder, [Dawncrest](https://dawncrestdigital.co.uk)** (2024 to 2026) | B2B consultancy, paused to focus on university: 6.7% email reply rate (~2% benchmark) and ~70% less manual work through automation |
 | **Technical Intern, [ICEYE](https://www.iceye.com)** | Database tasks and shadowing engineers in Lisbon |
 
 </div>
